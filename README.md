@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Prios
 
-You can use the [editor on GitHub](https://github.com/UKayeF/prios/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This priority list is a whitelist of programming resources to spend thoughts and time on.
+Goal of this is to keep focus on a few tasks and only move to other tasks once these have
+been crossed off. The list may not contain more than three items at any given time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UKayeF/prios/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. vim
+  - sharpen and enhance skill set
+  
+2. mobile game
+  - make responsive
+  - add gamepad controls
+  - turn into PWA
+  
